@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arodriguez2407@gmail.com
+	name = Alex Rodriguez
